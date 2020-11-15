@@ -1,0 +1,90 @@
+.input {
+	margin-bottom: 5px;
+	width: 300px;
+	background: #eee;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	color: #434343;
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: normal;
+}
+
+.input::placeholder {
+	color: #434343;
+}
+
+.button {
+	margin-bottom: 5px;
+	background: #eee;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	color: #434343;
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.submit {
+	padding: 10px 30px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background: #eee;
+	border: none;
+	border-radius: 5px;
+	color: #333;
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.h1 {
+	margin-bottom: 30px;
+	width: 500px;
+	text-align: center;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: normal;
+	color: #fff;
+}
+
+.main {
+	padding: 300px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.form__label {
+	color: #fff;
+}
+
+.fieldset {
+	padding: 7px;
+	border: 1px solid #eee;
+}
+
+.legend {
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	font-family: Roboto;
+	font-size: 15px;
+	color: #fff;
+}
+
+table {
+	margin: 0 auto;
+	max-width: 500px;
+}
