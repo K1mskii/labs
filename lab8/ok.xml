@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<journal>
+		<title>Лабораторные работы</title>
+		<contacts>
+			<address>isb2002</address>
+			<tel>8-3272-029016</tel>
+			<email>isb2002@tk.kz</email>
+			<url>www.tk.kz</url>
+		</contacts>
+		<authors-list>
+			<author ID="1">
+				<firstname>Ivan</firstname>
+				<lastname>Ivanov</lastname>
+				<email>ivanov@turan-edu.kz</email>
+			</author>
+			<author ID="2">
+				<firstname>Oksana</firstname>
+				<lastname>Smirnova</lastname>
+				<email>smirnova@turan-edu.kz</email>
+			</author> 
+			<author ID="3">
+				<firstname>Sergey</firstname>
+				<lastname>Petrov</lastname>
+				<email>petrov@turan-edu.kz</email>
+			</author> 
+		</authors-list>
+	</journal>
